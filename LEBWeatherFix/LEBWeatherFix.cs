@@ -24,6 +24,7 @@ namespace LEBWeatherFix
 
             Patch();
 
+            Logger.LogInfo("Come back v0xx. We miss you :(");
             Logger.LogInfo($"{MyPluginInfo.PLUGIN_GUID} v{MyPluginInfo.PLUGIN_VERSION} has loaded!");
         }
 
