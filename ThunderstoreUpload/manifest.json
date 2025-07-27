@@ -1,0 +1,9 @@
+{
+	"name":"LEBWeatherFix",
+	"version_number": "0.1.0",
+	"website_url":"https://github.com/Sniper1-1/LEBWeatherFix.git",
+	"description":"Used to patch the toxic smog weather in LethalElementsBeta to work after V70.",
+	"dependencies":[
+		"v0xx-LethalElementsBeta-1.2.81"
+	]
+}
