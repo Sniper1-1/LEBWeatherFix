@@ -6,5 +6,5 @@
 # Visual Studio cache directory
 .vs/
 
-LEBWeatherFix/bin/
-LEBWeatherFix/obj/
+*/bin/
+*/obj/
